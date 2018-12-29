@@ -1,1 +1,0 @@
-# smartpay_meetringroom
